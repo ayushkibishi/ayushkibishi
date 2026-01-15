@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+<br># 👋 Hi, I’m **HARSHPAL -.Aayush (Kibishi)**<br><br>🚀 **AI & Machine Learning Student | Robotics Developer | Creative Technologist**<br><br>I’m a passionate builder who loves turning ideas into **interactive systems** — combining **AI, robotics, voice interfaces, and visual design** to create technology that feels *alive* and *human*.<br><br>---<br><br>## 🧠 What I Do<br><br>* 🤖 Build **robotic systems** with expressive faces, voice interaction, and behavior logic<br>* 🗣️ Develop **voice-controlled assistants** with offline wake-word detection<br>* 🎭 Design **emotion-driven avatars** with realistic lip-sync and facial animation<br>* 💻 Work with **AI, ML, and creative coding** to solve real-world problems<br>* 🎬 Interested in **cinematic visuals, UI/UX, and interactive experiences**<br><br>---<br><br>## 🔧 Tech Stack<br><br>**Languages**<br><br>* Python, C/C++, JavaScript<br><br>**AI / ML**<br><br>* Machine Learning fundamentals<br>* Speech Recognition (Vosk, SpeechRecognition)<br>* AI-driven interaction systems<br><br>**Robotics & Systems**<br><br>* Raspberry Pi<br>* Arduino / ESP32<br>* Sensors, motors, real-time input systems<br><br>**Graphics & UI**<br><br>* Pygame<br>* OpenGL (PyOpenGL)<br>* Creative coding & animation<br><br>**Web & Tools*<br><br>* HTML, CSS, JavaScript<br>* Git & GitHub<br>* API integration<br><br><br>🚀 Featured Interests<br><br>* 🤖 Social & expressive robots<br>* 🧠 Human–Computer Interaction (HCI)<br>* 🎙️ Voice + AI systems<br>* 🎨 Tech blended with art & storytelling<br>* ⚙️ Real-time interactive applications<br><br><br>📌 Current Focus<br><br>* Building **emotion-aware robotic faces**<br>* Improving **phoneme-accurate lip sync**<br>* Creating **offline-first voice systems**<br>* Preparing for **advanced AI & robotics projects**<br><br><br>🌱 Philosophy<br><br>> *“Technology should not just work — it should feel.”*<br><br>I believe the future of AI and robotics lies in **emotion, interaction, and experience**, not just accuracy.<br><br>---<br><br>📫 Let’s Connect<br><br>* 💼 GitHub: *You’re already here 😉*<br>* 🎥 Projects: Robotics • AI • Interactive Systems<br>* 📍 Based in India<br>
 
-<!--
-**ayushkibishi/ayushkibishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@HARSHPALSINGH) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/HARSHPAL SINGH SOLANKI) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Harshpal Singh Solanki) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshpalsinghsolanki@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ayushkibishi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ayushkibishi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkibishi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ayushkibishi&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
